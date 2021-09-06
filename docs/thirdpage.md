@@ -1,9 +1,3 @@
----
-layout: page
-title: Dritte Seite
-
----
-
 # Inhalte auf der dritten Seite
 
 Die dritte Seite ist immer die beste! Denn hier kommt eine Liste:
